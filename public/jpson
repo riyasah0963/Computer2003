@@ -1,1 +1,141 @@
-
+{
+    "products": [
+    {
+      "barcode": "1234567890",
+      "name": "Milk",
+      "prices": [
+        { "name": "Store A", "price": 2.5 },
+        { "name": "Store B", "price": 2.8 }
+      ],
+      "recipes": ["Milkshake", "Cereal with Milk"],
+      "calories": 150,
+      "protein": 8,
+      "fat": 8
+    },
+    {
+      "barcode": "0987654321",
+      "name": "Bread",
+      "prices": [
+        { "name": "Store A", "price": 1.2 },
+        { "name": "Store B", "price": 1.3 }
+      ],
+      "recipes": ["Sandwich", "Bread Pudding"],
+      "calories": 80,
+      "protein": 3,
+      "fat": 1
+    },
+    {
+      "barcode": "1112223334",
+      "name": "Eggs",
+      "prices": [
+        { "name": "Store A", "price": 3.5 },
+        { "name": "Store B", "price": 3.8 }
+      ],
+      "recipes": ["Scrambled Eggs", "Omelette"],
+      "calories": 70,
+      "protein": 6,
+      "fat": 5
+    },
+    {
+      "barcode": "5556667778",
+      "name": "Apples",
+      "prices": [
+        { "name": "Store A", "price": 1.8 },
+        { "name": "Store B", "price": 2.0 }
+      ],
+      "recipes": ["Apple Pie", "Apple Salad"],
+      "calories": 52,
+      "protein": 0.3,
+      "fat": 0.2
+    },
+    {
+      "barcode": "9998887776",
+      "name": "Chicken Breast",
+      "prices": [
+        { "name": "Store A", "price": 5.5 },
+        { "name": "Store B", "price": 5.8 }
+      ],
+      "recipes": ["Grilled Chicken", "Chicken Curry"],
+      "calories": 165,
+      "protein": 31,
+      "fat": 3.6
+    },
+    {
+      "barcode": "1122334455",
+      "name": "Rice",
+      "prices": [
+        { "name": "Store A", "price": 1.0 },
+        { "name": "Store B", "price": 1.2 }
+      ],
+      "recipes": ["Fried Rice", "Rice Pudding"],
+      "calories": 130,
+      "protein": 2.7,
+      "fat": 0.3
+    },
+    {
+      "barcode": "5544332211",
+      "name": "Cheese",
+      "prices": [
+        { "name": "Store A", "price": 4.0 },
+        { "name": "Store B", "price": 4.5 }
+      ],
+      "recipes": ["Cheese Sandwich", "Mac and Cheese"],
+      "calories": 110,
+      "protein": 7,
+      "fat": 9
+    },
+    {
+      "barcode": "4433221100",
+      "name": "Tomatoes",
+      "prices": [
+        { "name": "Store A", "price": 1.5 },
+        { "name": "Store B", "price": 1.8 }
+      ],
+      "recipes": ["Tomato Soup", "Caprese Salad"],
+      "calories": 18,
+      "protein": 0.9,
+      "fat": 0.2
+    },
+    {
+      "barcode": "3344556677",
+      "name": "Potatoes",
+      "prices": [
+        { "name": "Store A", "price": 1.2 },
+        { "name": "Store B", "price": 1.4 }
+      ],
+      "recipes": ["Mashed Potatoes", "Potato Salad"],
+      "calories": 77,
+      "protein": 2,
+      "fat": 0.1
+    },
+    {
+      "barcode": "2233445566",
+      "name": "Butter",
+      "prices": [
+        { "name": "Store A", "price": 3.0 },
+        { "name": "Store B", "price": 3.2 }
+      ],
+      "recipes": ["Butter Cookies", "Garlic Bread"],
+      "calories": 102,
+      "protein": 0.1,
+      "fat": 11
+    }
+  ],
+    "recipes": [
+    { "id": 1, "name": "Pasta Primavera", "missingIngredients": ["Pasta", "Tomatoes"] },
+    { "id": 2, "name": "Greek Salad", "missingIngredients": ["Feta Cheese", "Cucumber"] },
+    { "id": 3, "name": "Chicken Curry", "missingIngredients": ["Chicken", "Curry Powder"] },
+    { "id": 4, "name": "Veggie Stir-fry", "missingIngredients": ["Bell Peppers", "Soy Sauce"] },
+    { "id": 5, "name": "Beef Stroganoff", "missingIngredients": ["Beef", "Mushrooms"] },
+    { "id": 6, "name": "Tomato Soup", "missingIngredients": ["Tomatoes", "Cream"] },
+    { "id": 7, "name": "Garlic Bread", "missingIngredients": ["Bread", "Garlic"] },
+    { "id": 8, "name": "Fish Tacos", "missingIngredients": ["Fish", "Tortillas"] },
+    { "id": 9, "name": "Shrimp Scampi", "missingIngredients": ["Shrimp", "Garlic"] },
+    { "id": 10, "name": "Caesar Salad", "missingIngredients": ["Romaine Lettuce", "Caesar Dressing"] },
+    { "id": 11, "name": "Margarita Pizza", "missingIngredients": ["Pizza Dough", "Mozzarella"] },
+    { "id": 12, "name": "Vegetable Soup", "missingIngredients": ["Carrots", "Celery"] },
+    { "id": 13, "name": "BBQ Chicken Wings", "missingIngredients": ["Chicken Wings", "BBQ Sauce"] },
+    { "id": 14, "name": "Egg Fried Rice", "missingIngredients": ["Eggs", "Rice"] },
+    { "id": 15, "name": "Spaghetti Carbonara", "missingIngredients": ["Spaghetti", "Parmesan"] }
+  ]
+  }  
