@@ -9,7 +9,7 @@ interface Message {
 
 const chatbotResponses = [
   {
-    question: "What are your store hours?",
+   question: "What are your store hours/time/timing/opening hour/opening time?",
     answer: "Our store is open from 8:00 AM to 10:00 PM, Monday to Sunday. Would you like to check the hours for a specific location?"
   },
   {
@@ -21,8 +21,28 @@ const chatbotResponses = [
     answer: "Dairy products are located in Aisle 5, near the refrigerated section. You can also check our store map in the app for exact locations."
   },
   {
-    question: "Do you have organic apples in stock?",
-    answer: "Yes! We currently have organic Fuji and Gala apples in stock. Would you like to add them to your cart?"
+     question: "Do you have organic apples  in stock?",
+    answer: "Yes! We currently have organic Fuji and Gala apple in stock. Would you like to add them to your cart?"
+  },
+  {
+    question: "Do you have organic banana  in stock?",
+    answer: "Yes! We currently have organic lady finger and plantain banana  in stock. Would you like to add them to your cart?"
+  },
+  {
+    question: "Do you have organic potato  in stock?",
+    answer: "Yes! We currently have organic king edward and salad potatoes  in stock. Would you like to add them to your cart?"
+  },
+  {
+    question: "Do you have organic meats  in stock?",
+    answer: "Yes! We currently have organic lamb,beef'turkey meat  in stock. Would you like to add them to your cart?"
+  },
+  {
+    question: "Do you have organic chicken  in stock?",
+    answer: "Yes! We currently have organic british whole ,drumbstick,fillet chicken  in stock. Would you like to add them to your cart?"
+  },
+  {
+    question: "Do you have organic eggs  in stock?",
+    answer: "Yes! We currently have organic 6,12 and 15 pieces of carten  in stock. Would you like to add them to your cart?"
   },
   {
     question: "What is the price of a gallon of milk?",
