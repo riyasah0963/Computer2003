@@ -3,7 +3,7 @@
 ![image alt](https://github.com/riyasah0963/Computer2003/blob/master/Screenshot.jpg?raw=true)
 
 
-##<h2>🚀 Features</h2>
+## <h2>🚀 Features</h2>
 -✅ User Authentication (Login, Register, Forgot Password via OTP)
 -✅ AI Chatbot (Assists customers in selecting groceries)
 -✅ Product Search & Filters (Find items easily)
