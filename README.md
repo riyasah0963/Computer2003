@@ -4,12 +4,12 @@
 
 
 <h2>🚀 Features</h2>
-✅ User Authentication (Login, Register, Forgot Password via OTP)
-✅ AI Chatbot (Assists customers in selecting groceries)
-✅ Product Search & Filters (Find items easily)
-✅ Shopping Cart (Add/remove products)
-✅ Secure Payment Gateway
-✅ Mobile-Responsive Design
+-✅ User Authentication (Login, Register, Forgot Password via OTP)
+-✅ AI Chatbot (Assists customers in selecting groceries)
+-✅ Product Search & Filters (Find items easily)
+-✅ Shopping Cart (Add/remove products)
+-✅ Secure Payment Gateway
+-✅ Mobile-Responsive Design
 
 <h2>📌 Tech Stack</h2>
 Frontend: React, TailwindCSS, React Router
