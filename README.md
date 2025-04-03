@@ -1,6 +1,6 @@
 🛒 Grocery Store Website with AI Chatbot
 
-![image alt]([image_url](https://github.com/riyasah0963/Computer2003/blob/5545b625d5479a4bf5d8b43abb9111f80035f123/Screenshot.jpg))
+![image alt](https://github.com/riyasah0963/Computer2003/blob/master/Screenshot.jpg?raw=true)
 
 
 🚀 Features
