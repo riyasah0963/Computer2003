@@ -64,3 +64,28 @@ Hashed passwords for secure storage
 JWT Authentication for user sessions
 OTP-based password reset for added security
 
+
+## Weekly Updates
+
+### [Date: 2025-03-28] - Login Component Update
+
+- Added a **"Forgot Password"** button in the login form.  
+- Created a new **forgot password view** with options for email or mobile reset.  
+- Implemented **state management** for the forgot password flow.  
+- Added **success message display** when reset instructions are sent.  
+- Included a **back button** to return to the login form.  
+- Added a **mobile number field** to the form data.  
+- Improved **error handling** for the reset password flow.  
+- Implemented **validation for email and mobile inputs**.  
+- Maintained all existing functionality while adding these new features.  
+
+### Password Reset Flow:
+
+1. User clicks **"Forgot Password"** from the login screen.  
+2. Chooses between **email or mobile number verification**.  
+3. Enters their **email or mobile number**.  
+4. Receives **confirmation** when reset instructions are sent.  
+5. Returns to the **login screen** after reset instructions are sent.  
+
+---
+
