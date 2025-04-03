@@ -67,7 +67,13 @@ OTP-based password reset for added security
 
 ## Weekly Updates
 
-### [Date: 2025-03-28] - Login & Registration Updates  
+### [Date: 2025-03-14] - Modify Home page and ChatBot
+- Improve response time of ChatBot.
+- Adding some extra question related to customer.
+- explain customer queries in simple way and correct way.
+- modify ChatBot in such a way so that customer should get satisfy. 
+
+### [Date: 2025-03-24] - Login & Registration Updates  
 
 #### Password Reset Flow:  
 - Added a **"Forgot Password"** button in the login form.  
