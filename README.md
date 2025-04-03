@@ -67,6 +67,24 @@ OTP-based password reset for added security
 
 ## Weekly Updates
 
+### [Date: 2025-03-06] - Login Page UI/UX Enhancements  
+
+- Added a **beautiful gradient background** for a modern look.  
+- Included **meaningful icons** for all input fields to improve usability.  
+- Implemented **smooth hover and focus animations** for a better user experience.  
+- Improved **typography** with better hierarchy for readability.  
+- Enhanced **button styles** with a scale animation on hover.  
+- Added **descriptive subtitles** for each section to guide users.  
+- Improved **spacing and padding** for a cleaner layout.  
+- Made the **reset password flow visually appealing** with better design.  
+- Added **visual feedback** for selected reset methods.  
+- Improved **error and success message styling** for better clarity.  
+- Made the form more **engaging with icon decorations**.  
+- Enhanced **mobile responsiveness** for a smooth experience on all devices.  
+
+The login page now looks **more professional and engaging** while maintaining its functionality. 🚀  
+
+
 ### [Date: 2025-03-14] - Modify Home page and ChatBot
 - Improve response time of ChatBot.
 - Adding some extra question related to customer.
@@ -92,8 +110,6 @@ OTP-based password reset for added security
 - Added a **password confirmation input field**, visible only during registration.  
 - Updated the **form reset** to include the new **confirmPassword** field.  
 - Ensured **both password fields** are filled out before submission.  
-
-
 
 
 ### [Date: 2025-04-01] - Login Component Update
