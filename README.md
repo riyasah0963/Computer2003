@@ -3,7 +3,7 @@
 ![image alt](https://github.com/riyasah0963/Computer2003/blob/master/Screenshot.jpg?raw=true)
 
 
-<h3>🚀 Features</h3>
+<h2>🚀 Features</h2>
 ✅ User Authentication (Login, Register, Forgot Password via OTP)
 ✅ AI Chatbot (Assists customers in selecting groceries)
 ✅ Product Search & Filters (Find items easily)
@@ -11,7 +11,7 @@
 ✅ Secure Payment Gateway
 ✅ Mobile-Responsive Design
 
-<h3>📌 Tech Stack</h3>
+<h2>📌 Tech Stack</h2>
 Frontend: React, TailwindCSS, React Router
 
 Backend: Node.js, Express, MongoDB
@@ -22,7 +22,7 @@ AI Chatbot: LangChain + OpenAI API
 
 SMS OTP: Twilio API
 
-<h3>🛠️ Installation Guid</h3>
+<h2>🛠️ Installation Guid</h2>
 🔹 1️⃣ Clone the Repository
 git clone https://github.com/your-username/grocery-store.git
 cd grocery-store
@@ -45,13 +45,13 @@ npm start
 cd frontend
 npm start
 
-<h3>🎯 Usage</h3>
+<h2>🎯 Usage</h2>
 Sign up or log in
 Browse products & add to cart
 Use AI chatbot for grocery suggestions
 Proceed to checkout and pay securely
 
-🛡️ Security Features
+<h2>🛡️ Security Features</h2>
 Hashed passwords for secure storage
 JWT Authentication for user sessions
 OTP-based password reset for added security
