@@ -67,7 +67,30 @@ OTP-based password reset for added security
 
 ## Weekly Updates
 
-### [Date: 2025-03-28] - Login Component Update
+### [Date: 2025-03-28] - Login & Registration Updates  
+
+#### Password Reset Flow:  
+- Added a **"Forgot Password"** button in the login form.  
+- Created a new **forgot password view** with options for email or mobile reset.  
+- Implemented **state management** for the forgot password flow.  
+- Added **success message display** when reset instructions are sent.  
+- Included a **back button** to return to the login form.  
+- Added a **mobile number field** to the form data.  
+- Improved **error handling** for the reset password flow.  
+- Implemented **validation for email and mobile inputs**.  
+- Maintained all existing functionality while adding these new features.  
+
+#### Password Confirmation (Registration):  
+- Added a **confirmPassword** field to the form state.  
+- Implemented **validation to check if passwords match** during registration.  
+- Added a **password confirmation input field**, visible only during registration.  
+- Updated the **form reset** to include the new **confirmPassword** field.  
+- Ensured **both password fields** are filled out before submission.  
+
+
+
+
+### [Date: 2025-04-01] - Login Component Update
 
 - Added a **"Forgot Password"** button in the login form.  
 - Created a new **forgot password view** with options for email or mobile reset.  
