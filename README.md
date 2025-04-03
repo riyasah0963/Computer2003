@@ -3,13 +3,21 @@
 ![image alt](https://github.com/riyasah0963/Computer2003/blob/master/Screenshot.jpg?raw=true)
 
 
-## <h2>🚀 Features</h2>
--✅ User Authentication (Login, Register, Forgot Password via OTP)
--✅ AI Chatbot (Assists customers in selecting groceries)
--✅ Product Search & Filters (Find items easily)
--✅ Shopping Cart (Add/remove products)
--✅ Secure Payment Gateway
--✅ Mobile-Responsive Design
+## Features of Grocery Website 🛒
+
+- ✅ **User Authentication**
+  - Login, Register, Forgot Password via OTP  
+- ✅ **AI Chatbot**
+  - Assists customers in selecting groceries  
+- ✅ **Product Search & Filters**
+  - Find items easily  
+- ✅ **Shopping Cart**
+  - Add/remove products  
+- ✅ **Secure Payment Gateway**
+  - Safe & encrypted transactions  
+- ✅ **Mobile-Responsive Design**
+  - Works smoothly on all devices  
+
 
 ## 📌 Tech Stack
 Frontend: React, TailwindCSS, React Router
