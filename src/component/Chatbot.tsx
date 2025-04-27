@@ -17,7 +17,7 @@ const chatbotResponses = [
     answer: "Yes! Our Loyalty Rewards Program gives you points on every purchase, which you can redeem for discounts. Would you like me to help you sign up?"
   },
   {
-    question: "Where can I find dairy products in the store?",
+    question: "Where can I find dairy/vegetables/eggs/fruits/bakery/meat/chicken products in the store?",
     answer: "Dairy products are located in Aisle 5, near the refrigerated section. You can also check our store map in the app for exact locations."
   },
   {
