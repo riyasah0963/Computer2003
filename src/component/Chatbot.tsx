@@ -49,8 +49,8 @@ const chatbotResponses = [
     answer: "A gallon of whole milk costs $3.99. Prices may vary by location. Would you like to check the price for a specific brand?"
   },
   {
-    question: "When will fresh chicken be restocked?",
-    answer: "Fresh chicken will be restocked on Wednesday morning. Would you like me to notify you when it's available?"
+    question: "When will fresh chicken/ fresh vegetables/ fresh fruits/ fresh juice/ fresh milk be restocked?",
+    answer: "Fresh products will be restocked on Wednesday morning. Would you like me to notify you when it's available?"
   },
   {
     question: "Can I track my order?",
